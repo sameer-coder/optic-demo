@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sameer-coder/optic-demo/issues"
   },
-  "homepage": "https://github.com/sameer-coder/optic-demo#readme"
+  "homepage": "https://github.com/sameer-coder/optic-demo#readme",
+  "dependencies": {
+    "jslicense-gpl-3.0": "^0.1.1",
+    "lodash": "^4.17.21"
+  }
 }
