@@ -30,6 +30,4 @@ jobs:
       - uses: nearform/optic-release-automation-action@v2
         with:
           github-token: ${{ secrets.github_token }}
-          npm-token: ${{ secrets.NPM_TOKEN }}
-          optic-token: ${{ secrets.OPTIC_TOKEN }}
 
